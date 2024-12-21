@@ -14,5 +14,5 @@ The Wii Cursor Pack by Suorkndnf is a sleek and customizable cursor set for Wind
 [![ibeam.png](https://i.postimg.cc/3xVD5dwx/ibeam.png)](https://postimg.cc/yDhN069M)
 [![nwpen.png](https://i.postimg.cc/Xv5BV4Zc/nwpen.png)](https://postimg.cc/SXyxd0fJ)
 [![sizenwse.png](https://i.postimg.cc/76MC29n5/sizenwse.png)](https://postimg.cc/tZJC0hfb)
-[![wait.jpg](https://i.postimg.cc/cCxvM3FX/wait.jpg)](https://postimg.cc/9RkXcD57)
-[![appstarting.jpg](https://i.postimg.cc/gjgnM05d/appstarting.jpg)](https://postimg.cc/dZTs3JwS)
+[![appstarting-ezgif-com-ani-to-gif-converter.gif](https://i.postimg.cc/Gt7cNFT2/appstarting-ezgif-com-ani-to-gif-converter.gif)](https://postimg.cc/8fvQfrHQ)
+[![wait-ezgif-com-ani-to-gif-converter.gif](https://i.postimg.cc/zXvDhc4R/wait-ezgif-com-ani-to-gif-converter.gif)](https://postimg.cc/GH01wqLc)
