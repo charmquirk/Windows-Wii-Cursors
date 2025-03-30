@@ -33,4 +33,10 @@ Icon | Name | Purpose
 | :--- | :--- | :--- |
 |   | Open Hand | When the Wii cursor hovers over a movable object. |
 |   | Dull Pointer | When the Wii cursor hovers over something that can't be clicked |
-|   | Dull Open Hand | When the Wii cursor hovers over something that can't be moved |
+|   | Dull Open Hand | When the Wii cursor hovers over something that can't be moved |## Credits
+
+- The [original repository](https://github.com/Suorkndnf/Wii-Cursor-Pack-by-Suorkndnf) of this pack by Suorkndnf.
+
+- The [original cursor graphics](https://www.deviantart.com/fantaferret/art/Wii-Cursors-1041889316) were designed by [fantaferret](https://www.deviantart.com/fantaferret/gallery) on DeviantArt
+
+- Test your cursor on [this webpage](https://codepen.io/WebDevCA/pen/DRjdMa)! Remember some cursors cannot be customized inside your PC's settings!
