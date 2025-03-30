@@ -1,5 +1,5 @@
 # Windows-Wii-Cursor
-Replace your default cursor with a Wiimote cursor. Install by executing the install.inf file. This is a fork of the Wii Cursor Pack by Suorkndnf. This README is a work in progress.
+Replace your default cursor with a Wiimote cursor. Install by executing the install.inf file. This is a fork of the Wii Cursor Pack by Suorkndnf. I replaced pointers I did not like, such as the "Unavailable" pointer.
 
 ## Installation
 
