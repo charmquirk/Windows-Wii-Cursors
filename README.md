@@ -34,6 +34,32 @@ Icon | Name | Purpose
 |   | Open Hand | When the Wii cursor hovers over a movable object. |
 |   | Dull Pointer | When the Wii cursor hovers over something that can't be clicked |
 |   | Dull Open Hand | When the Wii cursor hovers over something that can't be moved |## Credits
+## Installation
+
+Disclaimer: After installing, DO NOT delete this from your computer or the mouse icons will reset the next time you view them.
+
+Automatic
+1. **Download this repository** by clicking the green "Code" button and then clicking "Download as Zip".
+2. Open file explorer and navigate to downloads (or wherever your downloads go).
+3. Right click the zip file, click "Extract All", and then in the pop up click "Extract".
+4. Open the new extracted folder and **double click "install.inf"** to execute the code.
+5. Done!
+
+Manual
+1. **Download this repository** by clicking the green "Code" button and then clicking "Download as Zip".
+2. Open file explorer and navigate to downloads (or wherever your downloads go).
+3. Right click the zip file, click "Extract All", and then in the pop up click "Extract".
+4. **Navigate to mouse settings** by pressing the Windows Key and "S" at the same time (or just click the search bar), typing in "Mouse Settings", and clicking "Open" on the search result.
+5. **Click "Additional Mouse Settings".**
+6. In the new pop-up window, **click the "Pointers" tab.**
+7. **Select a pointer** to modify, such as "Normal Select".
+8. **Upload the cursor file** by clicking "Browse" and navigating to the file you would like to set the cursor to.
+8. Repeat step 7 through 8 for every pointer.
+9. Click "Save As" to save and name the pointer scheme.
+10. Click "Apply". 
+11. Done!
+
+## Credits
 
 - The [original repository](https://github.com/Suorkndnf/Wii-Cursor-Pack-by-Suorkndnf) of this pack by Suorkndnf.
 
