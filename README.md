@@ -40,3 +40,9 @@ Icon | Name | Purpose
 - The [original cursor graphics](https://www.deviantart.com/fantaferret/art/Wii-Cursors-1041889316) were designed by [fantaferret](https://www.deviantart.com/fantaferret/gallery) on DeviantArt
 
 - Test your cursor on [this webpage](https://codepen.io/WebDevCA/pen/DRjdMa)! Remember some cursors cannot be customized inside your PC's settings!
+
+## Other Wii Cursor Packs
+
+- [Stefano Tinaglia's Nintendo Wii Cursors](http://www.rw-designer.com/cursor-set/wii-cursor-by-stefano-tinaglia)
+
+- [Primm's Wii Pointer Cursors (& HD Pointers)](https://primm.gay/extras/other/cursors/) *also supports Mac and Linux
