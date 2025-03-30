@@ -31,9 +31,10 @@ Icon | Name | Purpose
 These cursors are used on the Nintendo Wii but not by Windows.
 Icon | Name | Purpose
 | :--- | :--- | :--- |
-|   | Open Hand | When the Wii cursor hovers over a movable object. |
-|   | Dull Pointer | When the Wii cursor hovers over something that can't be clicked |
-|   | Dull Open Hand | When the Wii cursor hovers over something that can't be moved |## Credits
+|   | Open Hand | Appears when the Wii cursor is hovering over a movable object. |
+|   | Closed Hand | Appears when the Wii cursor dragging and object. |
+|   | Dull Pointer | Appears when the Wii cursor hovers over something that can't be clicked. |
+|   | Dull Open Hand | Appears when the Wii cursor hovers over something that can't be moved. |
 ## Installation
 
 Disclaimer: After installing, DO NOT delete this from your computer or the mouse icons will reset the next time you view them.
