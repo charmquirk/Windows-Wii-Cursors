@@ -1,7 +1,7 @@
 ![Wii Cursor for Windows](https://github.com/charmquirk/Windows-Wii-Cursors/blob/main/Wii-Cursors/Wii%20Cursors%20for%20Windows.png?raw=true)
 
 # Windows-Wii-Cursor
-Replace your default cursor with a Wiimote cursor. Install by executing the install.inf file. This is a fork of the Wii Cursor Pack by Suorkndnf. I replaced pointers I did not like, such as the "Unavailable" pointer.
+Replace your default cursor with a Wiimote cursor. Install by executing the "install.inf" file. This is a fork of the Wii Cursor Pack by Suorkndnf. I replaced pointers I did not like, such as the "Unavailable" pointer.
 
 ## Installation
 
@@ -32,7 +32,7 @@ Manual
 
 - The [original repository](https://github.com/Suorkndnf/Wii-Cursor-Pack-by-Suorkndnf) of this pack by Suorkndnf.
 
-- The [original cursor graphics](https://www.deviantart.com/fantaferret/art/Wii-Cursors-1041889316) were designed by [fantaferret](https://www.deviantart.com/fantaferret/gallery) on DeviantArt
+- The [original cursor graphics](https://www.deviantart.com/fantaferret/art/Wii-Cursors-1041889316) were designed by [fantaferret](https://www.deviantart.com/fantaferret/gallery) on DeviantArt.
 
 - Test your cursor on [this webpage](https://codepen.io/WebDevCA/pen/DRjdMa)! Remember some cursors cannot be customized inside your PC's settings!
 
