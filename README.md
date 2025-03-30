@@ -1,18 +1,36 @@
-# Wii-Cursor-Pack-by-Suorkndnf
-The Wii Cursor Pack by Suorkndnf is a sleek and customizable cursor set for Windows, inspired by simplicity and clean design. With an easy installation process using the included install.inf file, this pack lets you personalize your desktop effortlessly. Perfect for fans of unique and stylish cursors
+# Windows-Wii-Cursor
+Replace your default cursor with a Wiimote cursor. Install by executing the install.inf file. This is a fork of the Wii Cursor Pack by Suorkndnf. This README is a work in progress.
 
-[![arrow.png](https://i.postimg.cc/KY3BRtWT/arrow.png)](https://postimg.cc/PLhP7vTf)
-[![hand.png](https://i.postimg.cc/QChT4wdg/hand.png)](https://postimg.cc/r0ZszhWz)
-[![help.png](https://i.postimg.cc/SsW9GkkN/help.png)](https://postimg.cc/njhMF8X6)
-[![no.png](https://i.postimg.cc/MH5jh5nC/no.png)](https://postimg.cc/YL49F1fR)
-[![sizeall.png](https://i.postimg.cc/KzXLLRXH/sizeall.png)](https://postimg.cc/bGTsfYwx)
-[![sizenesw.png](https://i.postimg.cc/fWfXtz88/sizenesw.png)](https://postimg.cc/ThhhB6Mb)
-[![sizens.png](https://i.postimg.cc/X7N59Rh4/sizens.png)](https://postimg.cc/14T4Qjsj)
-[![sizewe.png](https://i.postimg.cc/TYkD0kMm/sizewe.png)](https://postimg.cc/Whkzbw4b)
-[![uparrow.png](https://i.postimg.cc/K8RgHnxW/uparrow.png)](https://postimg.cc/LJFXqgqk)
-[![crosshair.png](https://i.postimg.cc/W3PFzCgR/crosshair.png)](https://postimg.cc/R3XVbPgG)
-[![ibeam.png](https://i.postimg.cc/3xVD5dwx/ibeam.png)](https://postimg.cc/yDhN069M)
-[![nwpen.png](https://i.postimg.cc/Xv5BV4Zc/nwpen.png)](https://postimg.cc/SXyxd0fJ)
-[![sizenwse.png](https://i.postimg.cc/76MC29n5/sizenwse.png)](https://postimg.cc/tZJC0hfb)
-[![appstarting-ezgif-com-ani-to-gif-converter.gif](https://i.postimg.cc/Gt7cNFT2/appstarting-ezgif-com-ani-to-gif-converter.gif)](https://postimg.cc/8fvQfrHQ)
-[![wait-ezgif-com-ani-to-gif-converter.gif](https://i.postimg.cc/zXvDhc4R/wait-ezgif-com-ani-to-gif-converter.gif)](https://postimg.cc/GH01wqLc)
+## Included Cursors
+Icon | Name | Purpose
+| :--- | :--- | :--- |
+|  | Normal Select | Default cursor. |
+|  | Help Select | Appears when hovering over help buttons or pressing F1. |
+|  | Working in Background | Indicates the system is busy, but input is still allowed. |
+|  | Busy | Indicates the system is busy and input is **not** allowed. |
+|  | Precision Select | Used for precise selection in image editors. |
+|  | Text Select | Appears over editable textboxes. |
+|  | Handwriting | Appears over handwriting or pen input panels. |
+|  |  Unavailable | Appears when an action not allowed, such as dragging to an invalid area. |
+|  | Vertical Resize | Appears on top and bottom edges of a resizable window. |
+|  | Horizontal Resize | Appears on left and right edges of a resizable window. |
+|  | Diagonal Resize 1  | Appears on top left or bottom right corners of a resizable window. |
+|  | Diagonal Resize 2 | Appears on top right or bottom left corners of a resizable window. |
+|  | Move | Dragging windows or objects. |
+|  | Alternate Select | Used for alternate selections (e.g., right-click drag). |
+|  | Link Select | Appears over clickable links. |
+
+### Unused Cursors 
+These cursors are only used on some windows apps and they are disabled by default.
+Icon | Name | Purpose
+| :--- | :--- | :--- |
+|   | Person Select | Appears over user profiles, such as the Windows 10 login screen. |
+|   | Location Select | Originally intended for map interfaces, but no one used it. Map apps use their own cursors.
+
+### Additional Cursors
+These cursors are used on the Nintendo Wii but not by Windows.
+Icon | Name | Purpose
+| :--- | :--- | :--- |
+|   | Open Hand | When the Wii cursor hovers over a movable object. |
+|   | Dull Pointer | When the Wii cursor hovers over something that can't be clicked |
+|   | Dull Open Hand | When the Wii cursor hovers over something that can't be moved |
